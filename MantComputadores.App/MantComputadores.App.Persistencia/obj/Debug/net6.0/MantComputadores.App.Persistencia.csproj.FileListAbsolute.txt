@@ -1,0 +1,17 @@
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\MantComputadores.App.Persistencia.csproj.AssemblyReference.cache
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\MantComputadores.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\MantComputadores.App.Persistencia.AssemblyInfoInputs.cache
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\MantComputadores.App.Persistencia.AssemblyInfo.cs
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\MantComputadores.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\bin\Debug\net6.0\MantComputadores.App.Persistencia.deps.json
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\bin\Debug\net6.0\MantComputadores.App.Persistencia.runtimeconfig.json
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\bin\Debug\net6.0\MantComputadores.App.Persistencia.dll
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\bin\Debug\net6.0\MantComputadores.App.Persistencia.pdb
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\bin\Debug\net6.0\MantComputadores.App.Dominio.dll
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\bin\Debug\net6.0\MantComputadores.App.Dominio.pdb
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\MantComputadores.App.Persistencia.csproj.CopyComplete
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\MantComputadores.App.Persistencia.dll
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\refint\MantComputadores.App.Persistencia.dll
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\MantComputadores.App.Persistencia.pdb
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\MantComputadores.App.Persistencia.genruntimeconfig.cache
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Persistencia\obj\Debug\net6.0\ref\MantComputadores.App.Persistencia.dll

@@ -1,0 +1,12 @@
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\bin\Debug\net6.0\MantComputadores.App.Dominio.deps.json
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\bin\Debug\net6.0\MantComputadores.App.Dominio.dll
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\bin\Debug\net6.0\MantComputadores.App.Dominio.pdb
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\obj\Debug\net6.0\MantComputadores.App.Dominio.csproj.AssemblyReference.cache
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\obj\Debug\net6.0\MantComputadores.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\obj\Debug\net6.0\MantComputadores.App.Dominio.AssemblyInfoInputs.cache
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\obj\Debug\net6.0\MantComputadores.App.Dominio.AssemblyInfo.cs
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\obj\Debug\net6.0\MantComputadores.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\obj\Debug\net6.0\MantComputadores.App.Dominio.dll
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\obj\Debug\net6.0\refint\MantComputadores.App.Dominio.dll
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\obj\Debug\net6.0\MantComputadores.App.Dominio.pdb
+C:\Proyecto\MantComputadores.App\MantComputadores.App.Dominio\obj\Debug\net6.0\ref\MantComputadores.App.Dominio.dll
