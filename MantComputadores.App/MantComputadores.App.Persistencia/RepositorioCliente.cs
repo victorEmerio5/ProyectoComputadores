@@ -1,4 +1,4 @@
-/*using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 using MantComputadores.App.Dominio;
 namespace MantComputadores.App.Persistencia;
@@ -14,7 +14,7 @@ public class RepositorioCliente:IRepositorioCliente
     // adicionar un cliente:
     Cliente IRepositorioCliente.AddCliente(Cliente cliente)
     {
-        var ClienteAdicionado = _appContext.clientes.Add(Cliente);
+        var ClienteAdicionado = _appContext.clientes.Add(cliente);
         _appContext.SaveChanges();
         return ClienteAdicionado.Entity;
     }
@@ -45,19 +45,20 @@ public class RepositorioCliente:IRepositorioCliente
     }
 
     // actualizar un cliente:
-    Cliente IRepositorioCliente.UpdateCliente(Cliente Cliente)
+    Cliente IRepositorioCliente.UpdateCliente(Cliente cliente)
     {
-        var ClienteEncontrado = _appContext.clientes.FirstOrDefault(client => client.Id==Client.Id);
+        var ClienteEncontrado = _appContext.clientes.FirstOrDefault(client => client.Id==cliente.Id);
         if(ClienteEncontrado != null)
         {
-            ClienteEncontrado.Nombres = Cliente.Nombres;
-            ClienteEncontrado.Apellidos = Cliente.Apellidos;
-            ClienteEncontrado.Direccion = Cliente.Direccion;
-            ClienteEncontrado.NumTelefono = Cliente.NumTelefono;
+            ClienteEncontrado.Nombres = cliente.Nombres;
+            ClienteEncontrado.Apellidos = cliente.Apellidos;
+            ClienteEncontrado.Direccion = cliente.Direccion;
+            ClienteEncontrado.NumTelefono = cliente.NumTelefono;
+            ClienteEncontrado.RazonSocial = cliente.RazonSocial;
 
             _appContext.SaveChanges();
         }
         return ClienteEncontrado;
     }
 
-}*/
+}

@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MantComputadores.App.Persistencia\MantComputadores.App.Persistencia.csproj" />
+    <ProjectReference Include="..\MantComputadores.App.Dominio\MantComputadores.App.Dominio.csproj" />
   </ItemGroup>
 
 </Project>

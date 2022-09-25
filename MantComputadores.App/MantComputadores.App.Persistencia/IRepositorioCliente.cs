@@ -1,4 +1,4 @@
-/*using System.Collections.Generic;  //libreria importada
+using System.Collections.Generic;  //libreria importada
 //using System.Linq;
 using MantComputadores.App.Dominio;
 
@@ -12,4 +12,4 @@ public interface IRepositorioCliente
     Cliente UpdateCliente (Cliente cliente);
     void DeleteCliente(int IdCliente);
     Cliente GetCliente(int IdCliente);
-}*/
+}
